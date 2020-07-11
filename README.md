@@ -1,4 +1,4 @@
-# [![Krishnatheja Vanka Header](https://raw.githubusercontent.com/theja-vanka/theja-vanka/master/assests/dataviz.jpg)](https://theja-vanka.github.io)
+# [![Krishnatheja Vanka Header](https://raw.githubusercontent.com/theja-vanka/theja-vanka/master/assets/dataviz.jpg)](https://theja-vanka.github.io)
 
 ### About me 🌱
 
