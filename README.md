@@ -2,8 +2,11 @@
 
 ### About me 🌱
 
-I am a Data Scientist with 2 years of experience. I deal with End-End deployment of Machine Learning and Deep Learning models using flask and Azure / GCP.
-Connect with me if you are into Machine Learning, Deep Learning or Data Science, or just to say "Hi" 👋.
+I am a Data Scientist with 2 years of experience. I deal with End-To-End deployment of Machine Learning and Deep Learning models using Flask and Azure / GCP.
+
+I am a Polyglot who writes code in Python, Javascript and Bash.
+
+Connect with me if you are into Machine Learning, Deep Learning, Data Science, or just to say "Hi" 👋.
  
 You can browse through my Github repositories for more details.
 
@@ -11,7 +14,6 @@ You can browse through my Github repositories for more details.
 
 - [E-Portfolio](https://theja-vanka.github.io)
 - [Code Profile](https://sourcerer.io/theja-vanka)
-- [E-mail](mailto:theja.vanka@gmail.com)
 - [Kaggle](https://kaggle.com/thejavanka)
 
 <p align='center'>
