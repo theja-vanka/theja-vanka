@@ -12,6 +12,7 @@ You can browse through my Github repositories for more details.
 
 - [E-Portfolio](https://theja-vanka.github.io)
 - [Code Profile](https://sourcerer.io/theja-vanka)
+- [LinkedIn](https://www.linkedin.com/in/krishnatheja-vanka)
 - [Kaggle](https://kaggle.com/thejavanka)
 
 <p align='center'>
