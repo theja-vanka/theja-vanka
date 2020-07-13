@@ -1,13 +1,11 @@
-# [![Krishnatheja Vanka Header](https://raw.githubusercontent.com/theja-vanka/theja-vanka/master/assets/dataviz.jpg)](https://theja-vanka.github.io)
-
 ### About me 🌱
 
-I am a Data Scientist with 2 years of experience. I deal with End-To-End deployment of Machine Learning and Deep Learning models using Flask and Azure / GCP.
+I am a Data Scientist with 2 years of experience. I deal with End-To-End lifecycle of Machine Learning and Deep Learning models using Python, Flask and Azure / GCP.
 
-I am a Polyglot who writes code in Python, Javascript and Bash.
+I am a Polyglot who writes code in Python, C++, and Javascript.
 
 Connect with me if you are into Machine Learning, Deep Learning, Data Science, or just to say "Hi" 👋.
- 
+
 You can browse through my Github repositories for more details.
 
 <h2 style="text-align:center">Social Profiles</h2>
@@ -19,3 +17,4 @@ You can browse through my Github repositories for more details.
 <p align='center'>
     <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=theja-vanka.visitor-badge">
 <p/>
+
