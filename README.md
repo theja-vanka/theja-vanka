@@ -6,16 +6,12 @@ I am a Polyglot who writes code in Python, C++, and Javascript.
 
 Connect with me if you are into Machine Learning, Deep Learning, Data Science, or just to say "Hi" 👋.
 
-You can browse through my Github repositories for more details.
+Browse through my Github repositories for more.
 
 <h2 style="text-align:center">Social Profiles</h2>
 
-- [E-Portfolio](https://theja-vanka.github.io)
-- [Code Profile](https://sourcerer.io/theja-vanka)
-- [LinkedIn](https://www.linkedin.com/in/krishnatheja-vanka)
-- [Kaggle](https://kaggle.com/thejavanka)
+[E-Portfolio](https://theja-vanka.github.io) | [Code Profile](https://sourcerer.io/theja-vanka)| [LinkedIn](https://www.linkedin.com/in/krishnatheja-vanka) | [Kaggle](https://kaggle.com/thejavanka)
 
 <p align='center'>
     <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=theja-vanka.visitor-badge">
 <p/>
-
