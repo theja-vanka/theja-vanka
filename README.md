@@ -1,12 +1,10 @@
 ### About me 🌱
 
-I am a Data Scientist with 2 years of experience. I deal with End-To-End lifecycle of Machine Learning and Deep Learning models using Python, Flask and Azure / GCP.
+I am a Data Scientist by profession and Coder by heart. I build Machine Learning and Deep Learning models using Python, Pytorch, Flask and Azure / GCP.
 
 I am a Polyglot who writes code in Python, C++, and Javascript.
 
-Connect with me if you are into Machine Learning, Deep Learning, Data Science, or just to say "Hi" 👋.
-
-Browse through my Github repositories for more.
+Connect with me if you are into Machine Learning/Deep Learning, Data Science, Coding,or just to say "Hi" 👋.
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&hide_border=true)
