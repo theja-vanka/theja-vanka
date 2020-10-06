@@ -5,7 +5,7 @@ I build Machine Learning / Deep Learning models using Python, Pytorch, Spark, Fl
 
 Polyglot who writes code in Python, C++, and Javascript.
 
-Connect with me if you are into Machine Learning / Deep Learning, Data Science, Coding,or just to say "Hi" 👋.
+Connect with me if you are into Machine Learning / Deep Learning, Data Science, Coding, or just to say "Hi" 👋.
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&hide_border=true)
