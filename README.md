@@ -9,7 +9,7 @@ Connect with me if you are into Machine Learning, Deep Learning, Data Science, o
 Browse through my Github repositories for more.
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 <h2 style="text-align:center">Social Profiles</h2>
 
 | [E-Portfolio](https://theja-vanka.github.io) | [Code Profile](https://sourcerer.io/theja-vanka) | [LinkedIn](https://www.linkedin.com/in/krishnatheja-vanka) | [Kaggle](https://kaggle.com/thejavanka) |
