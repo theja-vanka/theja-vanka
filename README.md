@@ -8,7 +8,7 @@ Connect with me if you are into Machine Learning, Deep Learning, Data Science, o
 
 Browse through my Github repositories for more.
 
-![Krishnatheja Vanka's Github stats](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true)
 
 <h2 style="text-align:center">Social Profiles</h2>
 
