@@ -1,8 +1,9 @@
 ### About me 🌱
 
-I am a Data Scientist by profession and Coder by heart. I build Machine Learning/Deep Learning models using Python, Pytorch, Spark, Flask/FastAPI and Azure/GCP.
+I am a Data Scientist by profession and Coder by heart.<br>
+I build Machine Learning / Deep Learning models using Python, Pytorch, Spark, Flask / FastAPI and Azure / GCP.
 
-I am a Polyglot who writes code in Python, C++, and Javascript.
+Polyglot who writes code in Python, C++, and Javascript.
 
 Connect with me if you are into Machine Learning/Deep Learning, Data Science, Coding,or just to say "Hi" 👋.
 
