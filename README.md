@@ -19,6 +19,9 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
 
 [<img align="left" alt="Vanka-Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://kaggle.com/thejavanka)
 
+
+---
+
 <p align='center'>
     <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=theja-vanka.visitor-badge">
 <p/>
