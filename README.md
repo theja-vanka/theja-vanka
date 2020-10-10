@@ -20,6 +20,8 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
 [<img align="left" alt="Vanka-Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://kaggle.com/thejavanka)
 
 
+<br/>
+
 ---
 
 <p align='center'>
