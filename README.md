@@ -1,4 +1,4 @@
-### About me 🌱
+<h2 style="text-align:center">About me 🌱</h2>
 
 I am a Data Scientist by profession and Coder by heart.<br>
 I build Machine Learning / Deep Learning models using Python, Pytorch, Spark, Flask / FastAPI and Azure / GCP.
@@ -9,6 +9,7 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&hide_border=true)
+
 <h2 style="text-align:center">Social Profiles</h2>
 
 [<img align="left" alt="https://theja-vanka.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://theja-vanka.github.io/)
