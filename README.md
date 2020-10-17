@@ -1,9 +1,7 @@
 <h2 style="text-align:center">About me 🌱</h2>
 
-I am a Data Scientist by profession and Coder by heart.<br>
-I build Machine Learning / Deep Learning models using Python, Pytorch, Spark, Flask / FastAPI and Azure / GCP.
-
-Polyglot who writes code in Python, C++, and Javascript.
+Hi 👋,<br/>
+My name is Krishna, and I am a Data Scientist. I build Machine Learning / Deep Learning models at work and improve Data Structure and Algorithm skills by night.
 
 Connect with me if you are into Machine Learning / Deep Learning, Data Science, Coding, or just to say "Hi" 👋.
 
