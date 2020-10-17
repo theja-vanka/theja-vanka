@@ -9,7 +9,6 @@
 Connect with me if you are into Machine Learning / Deep Learning, Data Science, Coding, or just to say "Hi" 👋.
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true)](https://github.com/theja-vanka)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&hide_border=true)](https://github.com/theja-vanka)
 
 <table style="width:100%">
@@ -46,6 +45,7 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
         </td>
     </tr>
 </table>
+
 
 [<img align="left" alt="https://theja-vanka.github.io" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" />](https://theja-vanka.github.io/)
 
