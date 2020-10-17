@@ -50,11 +50,11 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
 
 <h2 align="center"> Get in touch! :maple_leaf: </h2>
     
-[<img alt="https://theja-vanka.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://theja-vanka.github.io/)
-[<img alt="Vanka-Linkedin" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/krishnatheja-vanka)
-[<img alt="Vanka-Sourcerer" width="20px" src="https://raw.githubusercontent.com/vaishakhanil/vaishakhanil/master/scicon.svg">](https://sourcerer.io/theja-vanka)
-[<img alt="Vanka-Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />](https://kaggle.com/thejavanka)
-[<img alt="Vanka-DockerHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />](https://hub.docker.com/u/thejavanka)
+[<img align="left" alt="https://theja-vanka.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://theja-vanka.github.io/)
+[<img align="left" alt="Vanka-Linkedin" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/krishnatheja-vanka)
+[<img align="left" alt="Vanka-Sourcerer" width="20px" src="https://raw.githubusercontent.com/vaishakhanil/vaishakhanil/master/scicon.svg">](https://sourcerer.io/theja-vanka)
+[<img align="left" alt="Vanka-Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />](https://kaggle.com/thejavanka)
+[<img align="left" alt="Vanka-DockerHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />](https://hub.docker.com/u/thejavanka)
 
 <br/>
 
