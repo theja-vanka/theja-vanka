@@ -46,15 +46,15 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
     </tr>
 </table>
 
-<h2> Connect </h2>
+<h2> Check me out !! :fax: </h2>
 
-[<img align="center" alt="https://theja-vanka.github.io" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" />](https://theja-vanka.github.io/)
+[<img align="left" alt="https://theja-vanka.github.io" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" />](https://theja-vanka.github.io/)
 
-[<img align="center" alt="Vanka-Sourcerer" width="20px" src="https://raw.githubusercontent.com/vaishakhanil/vaishakhanil/master/scicon.svg">](https://sourcerer.io/theja-vanka)
+[<img align="left" alt="Vanka-Sourcerer" width="20px" src="https://raw.githubusercontent.com/vaishakhanil/vaishakhanil/master/scicon.svg">](https://sourcerer.io/theja-vanka)
 
-[<img align="center" alt="Vanka-Linkedin" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/krishnatheja-vanka)
+[<img align="left" alt="Vanka-Linkedin" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/krishnatheja-vanka)
 
-[<img align="center" alt="Vanka-Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />](https://kaggle.com/thejavanka)
+[<img align="left" alt="Vanka-Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />](https://kaggle.com/thejavanka)
 
 
 <br/>
