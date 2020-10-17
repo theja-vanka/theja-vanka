@@ -17,6 +17,7 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
         <th align="center">Language</th>
         <th align="center">Framework</th>
         <th align="center">Software Engineering</th>
+        <th align="center">Learning</td>
     </tr>
     <tr>
         <td align="center">
@@ -37,13 +38,6 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
             <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
             <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
         </td>
-    </tr>
-</table>
-<table>
-    <tr>
-        <th align="center">Learning</td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
             <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  
