@@ -11,7 +11,7 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true)](https://github.com/theja-vanka)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&hide_border=true)](https://github.com/theja-vanka)
 
-<center>
+
 <table>
     <tr>
         <th align="center">Language</th>
@@ -47,9 +47,9 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
         </td>
     </tr>
 </table>
-</center>
+
 <h2 align="center"> Get in touch! :maple_leaf: </h2>
-<center>
+<p align="center">
     
 [<img align="left" alt="https://theja-vanka.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://theja-vanka.github.io/)
 
@@ -61,7 +61,7 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
 
 [<img align="left" alt="Vanka-DockerHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />](https://hub.docker.com/u/thejavanka)
 
-</center>
+</p>
 <br/>
 
 ---
