@@ -1,12 +1,31 @@
 <h1 align="center">Hi 👋, I'm Krishnatheja Vanka</h1>
-<h3 align="center">Data Scientist</h3>
+<p align='center'>:maple_leaf: <samp>Programmer | Data Scientist | Polyglot</samp> :maple_leaf:</p>
 
+<br/>
 
-- Building production ready Machine Learning / Deep Learning models at work.
-- Levelling up on Data Structures and Algorithm by night.
-- Polyglot and open to new trends / stacks
+<div align='center'>
+    <a href="mailto:theja.vanka@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Mail_Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail-theja.vanka@gmail.com">
+    </a>
+    <a href="https://www.linkedin.com/in/krishnatheja-vanka/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn/krishnatheja-vanka">
+    </a>
+    <a href="https://kaggle.com/thejavanka/" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle/thejavanka">
+    </a>
+</div>
 
-Connect with me if you are into Machine Learning / Deep Learning, Data Science, Coding, or just to say "Hi" 👋.
+<br/>
+
+<ul align='center' style="list-style-type:none;">
+    <li>Building production ready Machine Learning / Deep Learning models at work.</li>
+    <li>Levelling up on Data Structures and Algorithm by night.</li>
+    <li>Polyglot and open to new trends / stacks</li>
+    <li>Technology Evangelist / Roadie</li>
+</ul>
+<p align='center'>
+    Connect with me if you are into Machine Learning / Deep Learning, Data Science, Coding, or just to say "Hi" 👋.
+</p>
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true)](https://github.com/theja-vanka)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&hide_border=true)](https://github.com/theja-vanka)
@@ -48,17 +67,7 @@ Connect with me if you are into Machine Learning / Deep Learning, Data Science, 
     </tr>
 </table>
 
-<h2 align="center"> Get in touch! :maple_leaf: </h2>
-    
-[<img align="left" alt="https://theja-vanka.github.io" width="40" height="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://theja-vanka.github.io/)
-[<img align="left" alt="Vanka-Linkedin" width="40" height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/krishnatheja-vanka)
-[<img align="left" alt="Vanka-Sourcerer" width="40" height="40" src="https://raw.githubusercontent.com/vaishakhanil/vaishakhanil/master/scicon.svg">](https://sourcerer.io/theja-vanka)
-[<img align="left" alt="Vanka-Kaggle" width="40" height="40" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />](https://kaggle.com/thejavanka)
-[<img align="left" alt="Vanka-DockerHub" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />](https://hub.docker.com/u/thejavanka)
-
 <br/>
-
----
 
 <p align='center'>
     <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=theja-vanka.visitor-badge">
