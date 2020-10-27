@@ -29,8 +29,10 @@
 
 <br/>
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true)](https://github.com/theja-vanka)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&hide_border=true)](https://github.com/theja-vanka)
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true' alt='My-Github-stats'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&hide_border=true' alt='Top-Langs'>
+</div>
 
 
 <table>
