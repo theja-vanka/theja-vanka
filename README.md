@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Krishnatheja Vanka</h1>
-<p align='center'>:maple_leaf: <samp>Programmer | Data Scientist | Polyglot</samp> :maple_leaf:</p>
+<p align='center'>:maple_leaf:  <samp>Programmer | Data Scientist | Polyglot</samp>  :maple_leaf:</p>
+
+<br/>
+
+<ul align='center' style="list-style-type:none;">
+    <li>Building production ready Machine Learning / Deep Learning models at work.</li>
+    <li>Levelling up on Data Structures and Algorithm by night.</li>
+    <li>Polyglot and open to new trends / stacks</li>
+    <li>Technology Evangelist / Roadie</li>
+</ul>
+<p align='center'>
+    Connect with me if you are into Machine Learning / Deep Learning, Data Science, Coding, or just to say "Hi" 👋.
+</p>
 
 <br/>
 
@@ -16,16 +28,6 @@
 </div>
 
 <br/>
-
-<ul align='center' style="list-style-type:none;">
-    <li>Building production ready Machine Learning / Deep Learning models at work.</li>
-    <li>Levelling up on Data Structures and Algorithm by night.</li>
-    <li>Polyglot and open to new trends / stacks</li>
-    <li>Technology Evangelist / Roadie</li>
-</ul>
-<p align='center'>
-    Connect with me if you are into Machine Learning / Deep Learning, Data Science, Coding, or just to say "Hi" 👋.
-</p>
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true)](https://github.com/theja-vanka)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&hide_border=true)](https://github.com/theja-vanka)
