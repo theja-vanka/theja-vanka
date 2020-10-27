@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnatheja Vanka</h1>
-<p align='center'>:maple_leaf:  <samp>Programmer | Data Scientist | Polyglot</samp>  :maple_leaf:</p>
+<h3 align='center'>:maple_leaf:  <samp>Programmer | Data Scientist | Polyglot</samp>  :maple_leaf:</h3>
 
 <br/>
 
@@ -68,9 +68,3 @@
         </td>
     </tr>
 </table>
-
-<br/>
-
-<p align='center'>
-    <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=theja-vanka.visitor-badge">
-<p/>
