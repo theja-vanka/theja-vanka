@@ -32,6 +32,6 @@
 <br/>
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true' alt='My-Github-stats'>
+    <img src='https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&hide_border=true' alt='My-Github-stats'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&langs_count=5&hide_border=true&hide=html,css' alt='Top-Langs'>
 </div>
