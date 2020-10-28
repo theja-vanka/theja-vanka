@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishnatheja Vanka</h1>
-<h3 align='center'>:maple_leaf:  <samp>Programmer | Data Scientist | Polyglot</samp>  :maple_leaf:</h3>
+<h3 align='center'>
+    <samp>| Data Scientist |</samp>
+</h3>
 
 <br/>
 
