@@ -12,7 +12,7 @@
     <li>Technology Evangelist / Roadie</li>
 </ul>
 <p align='center'>
-    <b>Connect</b> with me if you are into <b>Machine Learning / Deep Learning, Data Science, Coding, or just to say "Hi"</b> 👋.
+    <b>Connect</b> with me if you are into <b>Machine Learning / Deep Learning, Data Science, Coding</b>, or just to say <b>"Hi"</b> 👋.
 </p>
 
 <br/>
