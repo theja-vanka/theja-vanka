@@ -6,13 +6,13 @@
 <br/>
 
 <ul align='center' style="list-style-type:none;">
-    <li>Building production ready Machine Learning / Deep Learning models at work.</li>
-    <li>Levelling up on Data Structures and Algorithm by night.</li>
+    <li>Building production ready <b>Machine Learning / Deep Learning</b> models at work.</li>
+    <li>Levelling up on <b>Data Structures and Algorithm</b> by night.</li>
     <li>Polyglot and open to new trends / stacks</li>
     <li>Technology Evangelist / Roadie</li>
 </ul>
 <p align='center'>
-    Connect with me if you are into Machine Learning / Deep Learning, Data Science, Coding, or just to say "Hi" 👋.
+    <b>Connect</b> with me if you are into <b>Machine Learning / Deep Learning, Data Science, Coding, or just to say "Hi"</b> 👋.
 </p>
 
 <br/>
