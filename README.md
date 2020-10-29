@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishnatheja Vanka</h1>
 <h3 align='center'>
-    <samp>| Data Scientist |</samp>
+    <samp>Data Scientist</samp>
 </h3>
 
 <br/>
