@@ -37,7 +37,7 @@
 </div>
 
 <br/>
-___
+---
 
 <div align='center'>
     <img src='http://estruyf-github.azurewebsites.net/api/VisitorHit?user=theja-vanka&countColor=%230366d6' alt='Visits'>
