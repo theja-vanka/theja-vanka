@@ -38,13 +38,9 @@
 
 <br/>
 
----
-
-<br/>
-
 <table width="100%"> 
-    <tr>
-        <td width="100%">
+    <tr width="100%">
+        <th width="100%">
             <div align='center' width="100%">
                 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,7 +55,7 @@
                 <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="40px">
             </div>
-        </td>
+        </th>
     </tr>
   </table>
 
