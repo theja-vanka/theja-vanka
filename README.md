@@ -42,23 +42,29 @@
 
 <br/>
 
-<div align='center'>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40px" style="padding:10px;">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40px" style="padding:10px;">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px" style="padding:10px;">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40px" style="padding:10px;">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40px" style="padding:10px;">
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40px" style="padding:10px;">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="40px" style="padding:10px;">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40px" style="padding:10px;">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="40px" style="padding:10px;">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-plain.svg" width="40px" style="padding:10px;">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="40px" style="padding:10px;">
-    
-    
-</div>
+<table width="100%"> 
+    <tr>
+        <td width="100%">
+            <div align='center' width="100%">
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40px">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="40px">
+            </div>
+        </td>
+    </tr>
+  </table>
 
 <br/>
+
 <div align='center'>
     <img src='http://estruyf-github.azurewebsites.net/api/VisitorHit?user=theja-vanka&countColor=%230366d6' alt='Visits'>
 </div>
