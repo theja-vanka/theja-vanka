@@ -33,14 +33,16 @@
 
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&hide_border=true' alt='My-Github-stats'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&langs_count=6&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'>
 </div>
 
 <br/>
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&layout=compact&hide_border=true' alt='Top-Langs'>
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=thejavanka&layout=compact&hide_border=true' alt='My-Waka-stats'>
 </div>
+
+<br/>
 
 <div align='center'>
     <a href="https://theja-vanka.github.io/" target="_blank" rel="noopener noreferrer">
