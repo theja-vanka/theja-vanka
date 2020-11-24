@@ -33,16 +33,14 @@
 
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&hide_border=true' alt='My-Github-stats'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&langs_count=6&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'>
 </div>
 
 <br/>
 
 <div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&langs_count=6&hide_border=true' alt='Top-Langs'>
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=thejavanka&layout=compact&hide_border=true' alt='My-Waka-stats'>
 </div>
-
----
 
 <div align='center'>
     <a href="https://theja-vanka.github.io/" target="_blank" rel="noopener noreferrer">
@@ -55,8 +53,7 @@
     </a>
 </div>
 
-
-<br/>
+---
 
 <div align='center' width="100%">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
