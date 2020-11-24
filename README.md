@@ -38,7 +38,7 @@
 <br/>
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&langs_count=6&hide_border=true' alt='Top-Langs'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&layout=compact&hide_border=true' alt='Top-Langs'>
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=thejavanka&layout=compact&hide_border=true' alt='My-Waka-stats'>
 </div>
 
