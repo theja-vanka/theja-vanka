@@ -40,15 +40,9 @@
 
 ---
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/theja-vanka/theja-vanka/pull/2) in [theja-vanka/theja-vanka](https://github.com/theja-vanka/theja-vanka)
-2. 💪 Opened PR [#2](https://github.com/theja-vanka/theja-vanka/pull/2) in [theja-vanka/theja-vanka](https://github.com/theja-vanka/theja-vanka)
-3. 🎉 Merged PR [#1](https://github.com/theja-vanka/theja-vanka/pull/1) in [theja-vanka/theja-vanka](https://github.com/theja-vanka/theja-vanka)
-4. 💪 Opened PR [#1](https://github.com/theja-vanka/theja-vanka/pull/1) in [theja-vanka/theja-vanka](https://github.com/theja-vanka/theja-vanka)
-5. ❗️ Closed issue [#1](https://github.com/Elite-Programmers/getting-started/issues/1) in [Elite-Programmers/getting-started](https://github.com/Elite-Programmers/getting-started)
-<!--END_SECTION:activity-->
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=thejavanka&layout=compact&hide_border=true' alt='My-Waka-stats'>
+</div>
 
 ---
 
