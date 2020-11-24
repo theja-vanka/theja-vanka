@@ -38,8 +38,6 @@
 
 <br/>
 
----
-
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=thejavanka&layout=compact&hide_border=true' alt='My-Waka-stats'>
 </div>
