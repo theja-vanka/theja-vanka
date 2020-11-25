@@ -18,13 +18,15 @@
 <br/>
 
 <div align='center'>
-    <a href="mailto:theja.vanka@gmail.com" target="_blank">
+    <a href="mailto:theja.vanka@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Mail_Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail-theja.vanka@gmail.com">
     </a>
-    <a href="https://www.linkedin.com/in/krishnatheja-vanka/" target="_blank">
+    &nbsp;
+    <a href="https://www.linkedin.com/in/krishnatheja-vanka/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn/krishnatheja-vanka">
     </a>
-    <a href="https://kaggle.com/thejavanka/" target="_blank">
+    &nbsp;
+    <a href="https://kaggle.com/thejavanka/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle/thejavanka">
     </a>
 </div>
@@ -33,7 +35,7 @@
 
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&hide_border=true' alt='My-Github-stats'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&langs_count=6&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&custom_title=Most%20Used%20Extensions&langs_count=6&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'>
 </div>
 
 <!--br/-->
