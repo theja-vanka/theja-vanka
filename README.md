@@ -58,7 +58,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-plain.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="25px">
 </div>
