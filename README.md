@@ -49,19 +49,19 @@
 ---
 
 <div align='center' width="100%">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="25px">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="25px">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="25px">
 </div>
 
 <br/>
