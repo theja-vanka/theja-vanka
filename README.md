@@ -35,7 +35,7 @@
 
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&hide_border=true' alt='My-Github-stats'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&custom_title=Most%20Used%20Extensions&langs_count=6&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&custom_title=Most%20Used%20Extensions&langs_count=3&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'>
 </div>
 
 <!--br/-->
