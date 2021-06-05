@@ -1,3 +1,5 @@
+<img alt="Wave me" src="./images/wave-top.svg/" />
+
 <h1 align="center">Hi 👋, I'm Krishnatheja Vanka</h1>
 <h3 align='center'>
     <samp>Data Scientist</samp>
@@ -60,4 +62,4 @@
 
 <br/>
 
-<img alt="Wave me" src="./images/wave.svg/" />
+<img alt="Wave me" src="./images/wave-bot.svg/" />
