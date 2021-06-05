@@ -61,4 +61,4 @@
 
 <br/>
 
-<img alt="Wave me" src="./images/wave-bot.svg/" />
+<img alt="Wave me" src="./images/border-bot.png/" />
