@@ -1,4 +1,4 @@
-<img alt="Wave me" src="./images/wave-top.svg/" />
+<img alt="Wave me" src="./images/wave.png/" />
 
 <h1 align="center">Hi 👋, I'm Krishnatheja Vanka</h1>
 <h3 align='center'>
