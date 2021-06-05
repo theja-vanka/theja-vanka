@@ -62,3 +62,17 @@
 <br/>
 
 <img alt="Wave me" src="./images/border-bot.png/" />
+
+<h1 align="center">Activity</h1>
+<h3 align='center'>
+    <samp>Current Adventures</samp>
+</h3>
+
+<br/>
+
+<ul align='left' style="list-style-type:none;">
+    <li>:zap: Learning Golang for fun.</li>
+    <li>:trollface: Thinking about the Julia Hype Train</li>
+    <li>:relaxed: Binging on Beethoven</li>
+    <li>:cyclone: Confused on Kaggle</li>
+</ul>
