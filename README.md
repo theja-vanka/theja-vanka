@@ -1,5 +1,4 @@
-<img alt="Wave me" src="./images/wave.png/" />
-
+<img alt="Wave me" src="./images/border-top.png/" />
 <h1 align="center">Hi 👋, I'm Krishnatheja Vanka</h1>
 <h3 align='center'>
     <samp>Data Scientist</samp>
