@@ -1,4 +1,3 @@
-<div style="background-color: white;">
 <img alt="Wave me" src="./images/border-top.png/" />
 <h1 align="center">Hi 👋, I'm Krishnatheja Vanka</h1>
 <h3 align='center'>
@@ -63,7 +62,6 @@
 <br/>
 
 <img alt="Wave me" src="./images/border-bot.png/" />
-</div>
 
 <!--h1 align="center">Activity</h1>
 <h3 align='center'>
