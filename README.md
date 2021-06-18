@@ -27,12 +27,16 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn/krishnatheja-vanka">
     </a>
     &nbsp;
-    <a href="https://wandb.ai/theja-vanka" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Weights&Biases-FFBE00.svg?&style=for-the-badge&logo=weightsandbiases&logoColor=white" alt="weightsandbiases/thejavanka">
-    </a>
-    &nbsp;
     <a href="https://kaggle.com/thejavanka/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle/thejavanka">
+    </a>
+</div>
+
+<br/>
+
+<div align='center'>
+    <a href="https://wandb.ai/theja-vanka" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Weights&Biases-FFBE00.svg?&style=for-the-badge&logo=weightsandbiases&logoColor=white" alt="weightsandbiases/thejavanka">
     </a>
 </div>
 
