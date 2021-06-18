@@ -32,12 +32,6 @@
     </a>
 </div>
 
-<div align='center'>
-    <a href="https://wandb.ai/theja-vanka" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Weights&Biases-FFBE00.svg?&style=for-the-badge&logo=weightsandbiases&logoColor=white" alt="weightsandbiases/thejavanka">
-    </a>
-</div>
-
 <br/>
 
 <div align='center'>
@@ -64,6 +58,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="25px">
 </div>
+
+<br/>
+
+<a href="https://wandb.ai/theja-vanka" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-gradient.svg" alt="wandb/thejavanka">
+</a>
 
 <br/>
 
