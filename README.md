@@ -32,8 +32,6 @@
     </a>
 </div>
 
-<br/>
-
 <div align='center'>
     <a href="https://wandb.ai/theja-vanka" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Weights&Biases-FFBE00.svg?&style=for-the-badge&logo=weightsandbiases&logoColor=white" alt="weightsandbiases/thejavanka">
