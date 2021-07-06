@@ -10,6 +10,7 @@
     <li>Building production ready <b>Machine Learning / Deep Learning</b> models at work.</li>
     <li>Levelling up on <b>Data Structures and Algorithm</b> by night.</li>
     <li>Technology Evangelist / Linux Power User</li>
+    <li>Avid towards <b>Quantum Computing</b>.</li>
     <li>Polyglot Programming</li>
 </ul>
 <p align='center'>
