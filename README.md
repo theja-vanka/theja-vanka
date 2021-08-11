@@ -45,10 +45,10 @@
 ---
 
 <div align='center' width="100%">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="25px">
