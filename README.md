@@ -45,20 +45,20 @@
 ---
 
 <div align='center' width="100%">
-    <img src="https://simpleicons.org/icons/cplusplus.svg" width="25px">&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/python.svg" width="25px">&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="25px">&nbsp;&nbsp
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="20px">&nbsp;&nbsp
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="25px">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="25px">
+    <img src="https://simpleicons.org/icons/cplusplus.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/python.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/javascript.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/go.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/julia.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/apachespark.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/tensorflow.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/pytorch.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/flask.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/nodedotjs.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/apple.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/neovim.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/docker.svg" width="25px">
 </div>
 
 <br/>
