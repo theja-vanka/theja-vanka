@@ -55,7 +55,6 @@
 <img alt="Wave me" src="./images/border-bot.png/" />
 
 <br/>
-<br/>
 
 <div align='center' width="100%">
     <img src="https://simpleicons.org/icons/cplusplus.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
