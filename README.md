@@ -54,8 +54,6 @@
 
 <img alt="Wave me" src="./images/border-bot.png/" />
 
-<br/>
-
 <img alt="Wave me" src="./images/border-proj-top.png/" />
 
 <h1 align="center">Activity</h1>
@@ -65,7 +63,7 @@
 
 <br/>
 
-<ul align='left' style="list-style-type:none;">
+<ul align='center' style="list-style-type:none;">
     <li>:zap: Learning Golang for fun.</li>
     <li>:trollface: Thinking about the Julia Hype Train</li>
     <li>:relaxed: Binging on Neffex</li>
@@ -92,6 +90,13 @@
     <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/docker.svg" width="25px">
 </div>
+
+---
+<br/>
+
+<p align='center'>
+    <b>Notable work</b>
+</p>
 
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=theja-vanka&repo=pygame-snakes' alt='pygame-snakes'>
