@@ -71,11 +71,28 @@
 </ul>
 
 <br/>
----
+
+<h3 align='center'>
+    <b>Notable work</b>
+</h3>
+
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=theja-vanka&repo=pygame-snakes' alt='pygame-snakes'>
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=theja-vanka&repo=insurance-policy-asp' alt='insurance-policy-asp'>
+</div>
+
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=theja-vanka&repo=interview-prep' alt='interview-prep'>
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=Rishit-dagli&repo=Python3-by-practice'' alt='python3-programs'>
+</div>
+
+<br/>
 
 <h3 align='center'>
     <b>My Tech Stack</b>
 </h3>
+
+---
 
 <div align='center' width="100%">
     <img src="https://simpleicons.org/icons/cplusplus.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -95,21 +112,7 @@
 </div>
 
 ---
-<br/>
 
-<h3 align='center'>
-    <b>Notable work</b>
-</h3>
-
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=theja-vanka&repo=pygame-snakes' alt='pygame-snakes'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=theja-vanka&repo=insurance-policy-asp' alt='insurance-policy-asp'>
-</div>
-
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=theja-vanka&repo=interview-prep' alt='interview-prep'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=Rishit-dagli&repo=Python3-by-practice'' alt='python3-programs'>
-</div>
 
 <img alt="Wave me" src="./images/border-proj-bot.png/" />
 
