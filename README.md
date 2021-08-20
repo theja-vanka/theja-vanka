@@ -44,56 +44,6 @@
 
 ---
 
-<br/>
-<div align='center' width="100%">
-    <a href="https://wandb.ai/theja-vanka" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-gradient.svg" alt="wandb/thejavanka">
-    </a>
-</div>
-<br/>
-
-<img alt="Wave me" src="./images/border-bot.png/" />
-
-<img alt="Wave me" src="./images/border-proj-top.png/" />
-
-<h1 align="center">Activity</h1>
-<h3 align='center'>
-    <samp>Current Adventures</samp>
-</h3>
-
-<br/>
-
-<ul align='center' style="list-style-type:none;">
-    <li>:zap: Learning Golang for fun.</li>
-    <li>:trollface: Thinking about the Julia Hype Train</li>
-    <li>:relaxed: Binging on Neffex</li>
-    <li>:cyclone: Lost in Kaggle</li>
-</ul>
-
-<br/>
-
-<h3 align='center'>
-    <b>Notable work</b>
-</h3>
-
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=theja-vanka&repo=pygame-snakes' alt='pygame-snakes'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=theja-vanka&repo=insurance-policy-asp' alt='insurance-policy-asp'>
-</div>
-
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=theja-vanka&repo=interview-prep' alt='interview-prep'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=Rishit-dagli&repo=Python3-by-practice'' alt='python3-programs'>
-</div>
-
-<br/>
-
-<h3 align='center'>
-    <b>My Tech Stack</b>
-</h3>
-
----
-
 <div align='center' width="100%">
     <img src="https://simpleicons.org/icons/cplusplus.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/python.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -113,7 +63,14 @@
 
 ---
 
+<br/>
+<div align='center' width="100%">
+    <a href="https://wandb.ai/theja-vanka" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-gradient.svg" alt="wandb/thejavanka">
+    </a>
+</div>
+<br/>
 
-<img alt="Wave me" src="./images/border-proj-bot.png/" />
+<img alt="Wave me" src="./images/border-bot.png/" />
 
 
