@@ -70,9 +70,12 @@
     <li>:cyclone: Lost in Kaggle</li>
 </ul>
 
-<p align='center'>
+<br/>
+---
+
+<h3 align='center'>
     <b>My Tech Stack</b>
-</p>
+</h3>
 
 <div align='center' width="100%">
     <img src="https://simpleicons.org/icons/cplusplus.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -94,9 +97,9 @@
 ---
 <br/>
 
-<p align='center'>
+<h3 align='center'>
     <b>Notable work</b>
-</p>
+</h3>
 
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=theja-vanka&repo=pygame-snakes' alt='pygame-snakes'>
