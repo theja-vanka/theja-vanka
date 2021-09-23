@@ -57,6 +57,7 @@
     <img src="https://simpleicons.org/icons/flask.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/nodedotjs.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/apple.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/archlinux.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/neovim.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/docker.svg" width="25px">
