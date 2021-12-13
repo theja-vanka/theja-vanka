@@ -52,6 +52,7 @@
     <img src="https://simpleicons.org/icons/julia.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/apachespark.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/tensorflow.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/pytorchlightning.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/pytorch.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/fastapi.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/flask.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
