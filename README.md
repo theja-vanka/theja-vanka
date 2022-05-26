@@ -51,10 +51,7 @@
 ---
 
 <div align='center' width="100%">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/cplusplus.svg" width="25px" style="fill:white;">
-        <img src="https://simpleicons.org/icons/cplusplus.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    </picture>
+    <img src="https://simpleicons.org/icons/cplusplus.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/python.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/javascript.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://simpleicons.org/icons/go.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
