@@ -47,30 +47,6 @@
 </div>
 
 <br/>
-
----
-
-<div align='center' width="100%">
-    <img src="https://simpleicons.org/icons/cplusplus.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/python.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/javascript.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/apachespark.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/tensorflow.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/lightning.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/pytorch.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/fastapi.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/flask.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/nodedotjs.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/apple.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/archlinux.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/neovim.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://simpleicons.org/icons/docker.svg" width="25px">
-</div>
-
----
-
-<br/>
 <div align='center' width="100%">
     <a href="https://wandb.ai/theja-vanka" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-gradient.svg" alt="wandb/thejavanka">
