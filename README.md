@@ -36,10 +36,8 @@
 <br/>
 
 <div align='center'>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true&theme=github_dark">
-        <img src='https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true' alt='My-Github-Stats'>
-    </picture>
+    ![Logo Dark](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true&theme=github_dark#gh-dark-mode-only)
+    ![Logo Light](https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true#gh-light-mode-only)
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&custom_title=Extensions&langs_count=3&hide_border=true&hide=html,css,MATLAB&theme=github_dark">
         <!--img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&custom_title=Extensions&langs_count=3&hide_border=true&hide=html,css,MATLAB' alt='Top-Extensions' -->
