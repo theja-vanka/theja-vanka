@@ -1,7 +1,7 @@
 <img alt="Wave me" src="./images/border-top.png/" />
 <h1 align="center">Hi 👋, I'm Krishnatheja Vanka</h1>
 <h3 align='center'>
-    <samp>Machine Learning Engineer | Data Scientist</samp>
+    <samp>Machine Learning Engineer</samp>
 </h3>
 
 <br/>
