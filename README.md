@@ -35,9 +35,26 @@
 
 <br/>
 <hr>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,fastapi,git,github,githubactions,docker,js,vscode" />
-</p>
+<div align='center'>
+    <picture>
+  <!-- Dark mode -->
+  <source
+    srcset="https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,fastapi,git,github,githubactions,docker,js,vscode&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  <!-- Light mode -->
+  <source
+    srcset="https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,fastapi,git,github,githubactions,docker,js,vscode&theme=light"
+    media="(prefers-color-scheme: light)"
+  />
+
+  <!-- Fallback -->
+  <img
+    src="https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,fastapi,git,github,githubactions,docker,js,vscode&theme=light"
+  />
+</picture>
+</div>
 <hr>
 <br/>
 
