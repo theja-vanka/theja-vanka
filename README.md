@@ -48,11 +48,6 @@
     srcset="https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,fastapi,git,github,githubactions,docker,js,vscode&theme=light"
     media="(prefers-color-scheme: light)"
   />
-
-  <!-- Fallback -->
-  <img
-    src="https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,fastapi,git,github,githubactions,docker,js,vscode&theme=light"
-  />
 </picture>
 </div>
 <br/>
