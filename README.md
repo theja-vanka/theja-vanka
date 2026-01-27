@@ -35,8 +35,10 @@
 
 <br/>
 <br/>
-![stack](https://skillicons.dev/icons?i=neovim,vscode,ts,js,py,rust,pytorch,opencv,fastapi,docker,githubactions,git,github&size=24&theme=light&perline=20#gh-light-mode-only)
-![stack](https://skillicons.dev/icons?i=neovim,vscode,ts,js,py,rust,pytorch,opencv,fastapi,docker,githubactions,git,github&size=24&theme=dark&perline=20#gh-dark-mode-only)    
+
+![light](https://via.placeholder.com/200x50/ffffff/000000?text=LIGHT#gh-light-mode-only)
+![dark](https://via.placeholder.com/200x50/000000/ffffff?text=DARK#gh-dark-mode-only)  
+
 <br/>
 <br/>
 
