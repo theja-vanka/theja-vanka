@@ -6,16 +6,16 @@
 
 <br/>
 
-<ul align='center' style="list-style-type:none;">
-    <li>Building production ready <b>Machine Learning / Deep Learning</b> models at work.</li>
-    <li>Levelling up on <b>Data Structures and Algorithm</b> by night.</li>
-    <li>Technology Evangelist / Linux Power User</li>
-    <li>Avid towards <b>Quantum Computing</b>.</li>
-    <li>Polyglot Programming</li>
-</ul>
-<p align='center'>
-    <b>Connect</b> with me if you are into <b>Machine Learning / Deep Learning, Data Science, Coding</b>, or just to say <b>"Hi"</b> 👋.
-</p>
+<div align='center'>
+    <p align="center">Building production ready <b>Machine Learning / Deep Learning</b> models at work.</p>
+    <p align="center">Levelling up on <b>Data Structures and Algorithm</b> by night.</p>
+    <p align="center">Technology Evangelist / Linux Power User</p>
+    <p align="center">Avid towards <b>Quantum Computing</b>.</p>
+    <p align="center">Polyglot Programming</p>
+    <p align='center'>
+        <b>Connect</b> with me if you are into <b>Machine Learning / Deep Learning, Data Science, Coding</b>, or just to say <b>"Hi"</b> 👋.
+    </p>
+</div>
 
 <br/>
 
