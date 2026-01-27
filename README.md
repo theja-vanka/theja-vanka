@@ -36,9 +36,9 @@
 <br/>
 <br/>
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,fastapi,git,github,githubactions,docker,js,vscode&theme=light#gh-light-mode-only" />
+![skills](https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,fastapi,git,github,githubactions,docker,js,vscode&theme=light#gh-light-mode-only)
 
-<img src="https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,fastapi,git,github,githubactions,docker,js,vscode&theme=dark#gh-dark-mode-only" />
+![skills](https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,fastapi,git,github,githubactions,docker,js,vscode&theme=dark#gh-dark-mode-only)
 </div>
 <br/>
 <br/>
