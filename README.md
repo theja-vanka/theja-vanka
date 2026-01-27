@@ -34,7 +34,7 @@
 </div>
 
 <br/>
-<hr>
+<br/>
 <div align='center'>
     <picture>
   <!-- Dark mode -->
@@ -55,7 +55,7 @@
   />
 </picture>
 </div>
-<hr>
+<br/>
 <br/>
 
 <img alt="Wave me" src="./images/border-bot.png/" />
