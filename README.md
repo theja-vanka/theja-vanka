@@ -36,14 +36,6 @@
 <br/>
 <br/>
 
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode,ts,js,py,rust,pytorch,opencv,fastapi,docker,githubactions,git,github&size=24&perline=20&theme=dark" />
-</p>
-
-<br/>
-<br/>
-
 <img alt="Wave me" src="./images/border-bot.png/" />
 
 
