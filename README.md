@@ -34,6 +34,9 @@
 </div>
 
 <br/>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,git,github,githubactions,docker,js,vscode" />
+</p>
 
 <img alt="Wave me" src="./images/border-bot.png/" />
 
