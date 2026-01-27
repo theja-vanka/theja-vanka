@@ -36,7 +36,12 @@
 <br/>
 <br/>
 <div align='center'>
-    <img src="https://skillicons.dev/icons?i=neovim,ts,opencv,py,pytorch,rust,fastapi,git,github,githubactions,docker,js,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=neovim,vscode&size=32&theme=dark&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,py,rust&size=32&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,opencv&size=32&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=fastapi&size=32&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=docker,githubactions&size=32&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=git,github&size=32&theme=dark"/>
 </div>
 <br/>
 <br/>
