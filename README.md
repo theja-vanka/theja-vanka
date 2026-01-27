@@ -36,8 +36,10 @@
 <br/>
 <br/>
 
-![light](https://via.placeholder.com/200x50/ffffff/000000?text=LIGHT#gh-light-mode-only)
-![dark](https://via.placeholder.com/200x50/000000/ffffff?text=DARK#gh-dark-mode-only)  
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,ts,js,py,rust,pytorch,opencv,fastapi,docker,githubactions,git,github&size=24&perline=20&theme=dark" />
+</p>
 
 <br/>
 <br/>
