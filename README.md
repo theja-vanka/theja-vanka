@@ -37,22 +37,16 @@
 <br/>
 <div align='center'>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=neovim,vscode&size=32&theme=dark&theme=dark"/>
+        <img src="https://skillicons.dev/icons?i=neovim,vscode,docker&size=24&theme=dark&theme=dark"/>
     </p>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=ts,js,py,rust&size=32&theme=dark"/>
+        <img src="https://skillicons.dev/icons?i=js,py,rust&size=24&theme=dark"/>
     </p>
     <p align="center">    
-        <img src="https://skillicons.dev/icons?i=pytorch,opencv&size=32&theme=dark"/>
+        <img src="https://skillicons.dev/icons?i=opencv,pytorch,fastapi&size=24&theme=dark"/>
     </p>    
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=fastapi&size=32&theme=dark"/>
-    </p>
-    <p align="center">
-        <img src="https://skillicons.dev/icons?i=docker,githubactions&size=32&theme=dark"/>
-    </p>
-    <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github&size=32&theme=dark"/>
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions&size=24&theme=dark"/>
     </p>
 </div>
 <br/>
