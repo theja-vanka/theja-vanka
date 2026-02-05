@@ -34,6 +34,7 @@
 </div>
 
 <br/>
+[![theja-vanka's GitHub Card](https://sourav-das-fancy-gh-card.hf.space/theja-vanka/github-profile-card.png?theme=aqua-cyan&font=inter)](https://github.com/theja-vanka)
 <br/>
 
 <img alt="Wave me" src="./images/border-bot.png/" />
